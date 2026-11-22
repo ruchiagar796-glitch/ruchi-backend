@@ -1,0 +1,17 @@
+{
+  "name": "ruchi-aur-backend",
+  "version": "1.0.0",
+  "description": "backend with ruchi",
+  "keywords": [
+    "javascript",
+    "backend",
+    "chai"
+  ],
+  "license": "ISC",
+  "author": "ruchika agarwal",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
