@@ -1,1 +1,1 @@
-export const DB_NAME = "webx"
+export const DB_NAME = "webX"

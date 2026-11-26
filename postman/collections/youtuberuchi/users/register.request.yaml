@@ -1,0 +1,4 @@
+$kind: http-request
+url: "{{server }}{/users/test"
+method: POST
+order: 1000
